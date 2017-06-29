@@ -1,0 +1,31 @@
+:
+this is a commit of all the files we have modified
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: root <root@pupblv21.t-mobile.lab>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   environment.conf
+#	new file:   hieradata/RedHat.yaml
+#	new file:   hieradata/common.yaml
+#	new file:   hieradata/nodes/grover.example.com.yaml
+#	new file:   hieradata/nodes/kermit.example.com.yaml
+#	new file:   hieradata/osfamily/Debian.yaml
+#	new file:   hieradata/osfamily/RedHat.yaml
+#	new file:   hieradata/virtual/vmware.yaml
+#	new file:   manifests/site.pp
+#	new file:   modules
+#	new file:   puppettest
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	fullcommit

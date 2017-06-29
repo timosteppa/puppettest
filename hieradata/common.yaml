@@ -1,0 +1,9 @@
+---
+vmwaretools::version: 8.6.5-621624
+motd::message: 'grover.example is the message for testing defualt'
+ntp::autoupdate: true
+ntp::enable: true
+ntp::servers:
+  - grover.example.com iburst
+  - kermit.example.com iburst
+  - steppa

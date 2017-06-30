@@ -14,6 +14,24 @@
 #}
 
 
+####### installing packages###########
+class package {
+package { 'gcc':
+   ensure => present,
+  }
+
+}
+package {'tftp':}
+package {'firefox':}
+package {'mysql':}
+package {'ksh':}
+package {'m4':}
+
+
+
+
+######## installing packages###########
+
 
 #class motd::message { notify{"blah blah":} }
 
